@@ -27,6 +27,9 @@ disclosure, bug bounty, and anonymized case studies from the field.
 **Apple** — macOS
 - [CVE-2026-112456](https://support.apple.com/en-ae/149521) — HFS heap corruption (out-of-bounds write), fixed in macOS 27.2
 
+**Apache** — ActiveMQ Artemis
+- [CVE-2022-35278](https://nvd.nist.gov/vuln/detail/CVE-2022-35278) — Stored XSS / content injection in the web console (pre-2.24.0)
+
 **ImageMagick** — published repository advisories
 - [GHSA-x48p-6655-8qgv](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-x48p-6655-8qgv) — Heap buffer over-write (`-morph`)
 - [GHSA-7438-vh5v-v52h](https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-7438-vh5v-v52h) — Heap buffer over-write (convex-hull, 32-bit)
