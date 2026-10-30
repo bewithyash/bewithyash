@@ -59,7 +59,33 @@ disclosure, bug bounty, and anonymized case studies from the field.
 
 ### 🧰 Focus areas
 
-`Broken Access Control` · `BOLA / IDOR` · `Auth / Session` · `Business Logic` · `Mobile (Android/iOS)` · `API Security` · `Memory-safety / fuzzing`
+**Offensive & AppSec**
+`Broken Access Control` · `BOLA / IDOR` · `Auth / Session` · `Business Logic` · `API Security` · `Web / Cloud` · `SSRF` · `Injection / SQLi / RCE` · `HTTP Request Smuggling` · `Cache Poisoning / Deception`
+
+**Low-level & Research**
+`Memory-safety / Fuzzing` · `Zero-day Research` · `Reverse Engineering` · `Exploit Development` · `Firmware / IoT / Embedded` · `Mobile (Android / iOS)`
+
+**Adversarial & Program**
+`Red Team / Purple Team` · `Threat Intelligence` · `DevSecOps / Shift-left` · `AI / LLM Security` (OWASP LLM Top 10, agentic AI, MCP threat modelling) · `Security Automation & Tooling`
+
+---
+
+### 🧭 How I work
+
+- **First principles.** Break a system down to its primitives and reason up from there, not from the brochure.
+- **Low-level by default.** The bug usually lives below the abstraction, so that is where I read.
+- **Real work over talk.** A working proof of concept, or it did not happen.
+- **Depth over noise.** One provable critical beats a hundred informational findings.
+
+---
+
+### ♟️ Beyond security
+
+The same two habits, first principles and real work, carry over to everything I spend time on:
+
+`Physics` · `Advanced Mathematics` · `Quantum Theory` · `Chess` · `Cricket` · `Padel` · `Politics` · `Startups & Business` · `Technology`
+
+Curious about how things actually work at the lowest level, whether that is a heap allocator, a market, a quantum state, or a chess endgame.
 
 ---
 
